@@ -1,7 +1,13 @@
 # CHI Token
-Gastoken by 1inch.exchange
 
-# Deployment
+> source: modified gastoken by 1inch.exchange
+
+[![Build Status](https://travis-ci.com/sambacha/chi.svg?branch=master)](https://travis-ci.com/sambacha/chi)
+
+## Overview 
+
+
+## Deployment
 ### Token Address: 
 > 0x0000000000004946c0e9F43F4Dee607b0eF1fA1c
 ### Deployer wallet address: 
